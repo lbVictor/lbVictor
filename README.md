@@ -42,7 +42,7 @@ Rossmann's CFO recently asked store managers for a forecast of the next six week
 
 
 <!--
-**lbVictor/VictorLeite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lbVictor/lbVictor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
