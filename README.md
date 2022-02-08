@@ -26,11 +26,6 @@ Analytical tools:
 
 ## Data Science Projects
 
-[Rossmann - Sales Prediction Project](https://github.com/lbVictor/Sales_Prediction)
-
-Rossmann's CFO recently asked store managers for a forecast of the next six weeks of sales, as based on this information, he intends to define the investment that will be made in the renovation of each store. Given the requested information and the lack of accurate response from store managers, the data science team suggested the development of a Machine Learning solution for this problem, prioritizing the quality of information and ease of access by stakeholders.
-
-
 [Health Insurance Cross Sell - Learning to Rank Project](https://github.com/lbVictor/Health_Insurance_Cross_Sell)
 
 Insurance All is a company that provides health insurance to its customers and the product team is analyzing the possibility of offering a new product: Car insurance.
@@ -41,6 +36,9 @@ The product team selected 127,000 new customers who did not respond to the surve
 
 This project consists of raising insights for the business and, through Machine Learning techniques, generate a list ordered by purchase propensity for the business team to identify potential customers to carry out the car insurance offer.
 
+[Rossmann - Sales Prediction Project](https://github.com/lbVictor/Sales_Prediction)
+
+Rossmann's CFO recently asked store managers for a forecast of the next six weeks of sales, as based on this information, he intends to define the investment that will be made in the renovation of each store. Given the requested information and the lack of accurate response from store managers, the data science team suggested the development of a Machine Learning solution for this problem, prioritizing the quality of information and ease of access by stakeholders.
 
 
 
