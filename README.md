@@ -41,7 +41,7 @@ This project consists of raising insights for the business and, through Machine 
 Rossmann's CFO recently asked store managers for a forecast of the next six weeks of sales, as based on this information, he intends to define the investment that will be made in the renovation of each store. Given the requested information and the lack of accurate response from store managers, the data science team suggested the development of a Machine Learning solution for this problem, prioritizing the quality of information and ease of access by stakeholders.
 
 
-[Insiders Clustering](https://github.com/lbVictor/Insiders_Clustering)
+[Insiders - A Clustering Project](https://github.com/lbVictor/Insiders_Clustering)
 
 Clustering Project to obtain which customers should participate in a loyalty program called Insiders. (Project under development - start 2022/02/14)
 
