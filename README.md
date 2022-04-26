@@ -11,12 +11,18 @@ I am a data scientist experienced in developing business solutions end-to-end, f
 I have developed regression and classification problems. The details of each one of them are below.
 
 Analytical tools:
-- Data Collection: Postgres.
-- Data Manipulation: Python, Pandas.
-- Data Visualization, Deploy and Cloud with Heroku.
-- Exploratory Data Analysis with Seaborn and Matplotlib.
-- Data Preparation and Feature Selection with Boruta, Random Forest.
-- Machine Learning: Random Forest, XGBoost, LightGBM, CatBoost, Linear and Logistic Regressions, KNN, etc.
+- Python for web scraping, data analysis, data vizualization, data mining and data handling.
+- SQL for data extraction.
+- Statistical analysis.
+- Machine Learning Modelling (Regression, Classification, Clustering)
+- Machine Learning tools: Sklearn, Scipy, RF, XGBoost, LightGBM, CatBoost, etc.
+- Development with CRISP, Jupyter Notebook and Virtual Environment.
+- Code versioning with Git, GitHub.
+- Deploy with MLFlow, Streamlit, Flask, Python API's and Clouds.
+
+Project Pipeline:
+
+Business understanding -> Data Cleaning & Data Description -> Feature Engineering -> EDA -> Data Preprocessing -> Feature Selection -> ML Modelling -> Cross-Validation -> Hyperparameters Tuning -> Model Performance -> Business Performance -> Deploy -> Monitoring.
 
 ## Contacts
 
