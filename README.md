@@ -22,7 +22,7 @@ Analytical tools:
 
 Project Pipeline:
 
-Business understanding -> Data Cleaning & Data Description -> Feature Engineering -> EDA -> Data Preprocessing -> Feature Selection -> ML Modelling -> Cross-Validation -> Hyperparameters Tuning -> Model Performance -> Business Performance -> Deploy -> Monitoring.
+Business Understanding -> Data Cleaning & Data Description -> Feature Engineering -> EDA -> Data Preprocessing -> Feature Selection -> ML Modelling -> Cross-Validation -> Hyperparameters Tuning -> Model Performance -> Business Performance -> Deploy -> Monitoring.
 
 ## Contacts
 
