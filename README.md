@@ -49,7 +49,7 @@ Rossmann's CFO recently asked store managers for a forecast of the next six week
 
 [Insiders - A Clustering Project](https://github.com/lbVictor/Insiders_Clustering)
 
-Clustering Project to obtain which customers should participate in a loyalty program called Insiders. (Project under development - start 2022/02/14)
+Clustering Project to obtain which customers should participate in a loyalty program called Insiders. (project in development)
 
 
 <!--
