@@ -17,7 +17,7 @@ Tools/methodologies:
 - ML techniques such as Classification, Regression and Clustering.
 - Development with CRISP, MLFlow, Git, GitHub, Jupyter Notebooks and Virtual Environments.
 - ML packages including Sklearn, Scipy, Keras, Boosting Algorithms, etc.
-- Deploy using Python API's, Flask, Streamlit, Heroku and GCP.
+- Deploy using Python API's, Flask, Streamlit and Clouds.
 
 Project Pipeline:
 
