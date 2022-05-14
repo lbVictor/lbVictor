@@ -10,15 +10,14 @@ Welcome to my portfolio, here you can find links to the Data Science projects I 
 I am a data scientist experienced in developing business solutions end-to-end, from collecting data and creating Machine Learning models and finally implementing.
 I have developed regression and classification problems. The details of each one of them are below.
 
-Analytical tools:
-- Python for web scraping, data analysis, data vizualization, data mining and data handling.
+Tools/methodologies:
+- Python for web scraping, data analysis, modeling, visualization and handling.
 - SQL for data extraction.
-- Statistical analysis.
-- Machine Learning Modelling (Regression, Classification, Clustering)
-- Machine Learning tools: Sklearn, Scipy, RF, XGBoost, LightGBM, CatBoost, etc.
-- Development with CRISP, Jupyter Notebook and Virtual Environment.
-- Code versioning with Git, GitHub.
-- Deploy with MLFlow, Streamlit, Flask, Python API's and Clouds.
+- Statistics for analysis and inference.
+- ML techniques such as Classification, Regression and Clustering.
+- Development with CRISP, MLFlow, Git, GitHub, Jupyter Notebooks and Virtual Environments.
+- ML packages including Sklearn, Scipy, Keras, Boosting Algorithms, etc.
+- Deploy using Python API's, Flask, Streamlit, Heroku and GCP.
 
 Project Pipeline:
 
