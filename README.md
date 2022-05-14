@@ -8,7 +8,7 @@ Welcome to my portfolio, here you can find links to the Data Science projects I 
 # Data Science
 
 I am a data scientist experienced in developing business solutions end-to-end, from collecting data and creating Machine Learning models and finally implementing.
-I have developed regression and classification problems. The details of each one of them are below.
+I have developed regression, classification and Clustering problems. The details of each one of them are below.
 
 Tools/methodologies:
 - Python for web scraping, data analysis, modeling, visualization and handling.
